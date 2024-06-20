@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@nighttrax/foo": "workspace:*"
+    "@likui628/foo": "workspace:*"
   },
   "devDependencies": {
     "@babel/core": "~7.24.0",

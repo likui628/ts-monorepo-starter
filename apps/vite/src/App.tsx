@@ -1,5 +1,5 @@
-import { Button } from "@nighttrax/components/button";
-import { meaningOfLife } from "@nighttrax/foo";
+import { Button } from "@likui628/components/button";
+import { meaningOfLife } from "@likui628/foo";
 import React, { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import "./App.css";

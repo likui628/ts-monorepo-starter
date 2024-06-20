@@ -1,6 +1,6 @@
 import React from "react";
-import { Button } from "@nighttrax/components/button";
-import { meaningOfLife } from "@nighttrax/foo";
+import { Button } from "@likui628/components/button";
+import { meaningOfLife } from "@likui628/foo";
 import { useTest } from "@hooks/test";
 
 export const App = () => {

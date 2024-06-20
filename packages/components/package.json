@@ -11,7 +11,7 @@
     "react": "~18.2.0"
   },
   "dependencies": {
-    "@nighttrax/foo": "workspace:*"
+    "@likui628/foo": "workspace:*"
   },
   "devDependencies": {
     "@types/react": "~18.2.0",

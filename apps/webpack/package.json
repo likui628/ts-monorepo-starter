@@ -8,7 +8,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "@nighttrax/bar": "workspace:*"
+    "@likui628/bar": "workspace:*"
   },
   "devDependencies": {
     "rimraf": "~5.0.0",

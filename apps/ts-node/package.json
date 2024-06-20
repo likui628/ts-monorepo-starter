@@ -8,7 +8,7 @@
     "test": "pnpm run start"
   },
   "dependencies": {
-    "@nighttrax/foo": "workspace:*"
+    "@likui628/foo": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "~20.12.0",

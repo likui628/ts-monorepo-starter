@@ -1,5 +1,5 @@
 /* eslint-disable no-alert */
-import { meaningOfLife } from "@nighttrax/foo";
+import { meaningOfLife } from "@likui628/foo";
 import React, { FC } from "react";
 
 export const Button: FC = () => (
