@@ -1,5 +1,5 @@
 {
-  "name": "@nighttrax/vite-example",
+  "name": "@likui628/vite-example",
   "description": "Example of using Vite in a TS monorepo",
   "private": true,
   "version": "1.0.0",

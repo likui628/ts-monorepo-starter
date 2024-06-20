@@ -1,5 +1,5 @@
 {
-  "name": "@nighttrax/components",
+  "name": "@likui628/components",
   "version": "1.0.0",
   "scripts": {
     "build": "pnpm run clean && pnpm run compile",
