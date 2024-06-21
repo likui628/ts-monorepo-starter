@@ -337,6 +337,9 @@ importers:
 
   apps/vue:
     dependencies:
+      '@likui628/foo':
+        specifier: workspace:*
+        version: link:../../packages/foo
       vue:
         specifier: ^3.4.29
         version: 3.4.29(typescript@5.4.5)

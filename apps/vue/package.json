@@ -11,7 +11,8 @@
     "clean": "rimraf dist"
   },
   "dependencies": {
-    "vue": "^3.4.29"
+    "vue": "^3.4.29",
+    "@likui628/foo": "workspace:*"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",

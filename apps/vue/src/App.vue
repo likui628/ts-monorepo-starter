@@ -1,13 +1,15 @@
 <script setup lang="ts">
 import TheWelcome from './components/TheWelcome.vue'
+import { meaningOfLife } from "@likui628/foo";
 </script>
 
 <template>
   <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-    </header>
+  </header>
   <main>
     <TheWelcome />
+    <span>{{ meaningOfLife }}</span>
   </main>
 </template>
 
