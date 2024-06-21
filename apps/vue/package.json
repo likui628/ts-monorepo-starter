@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "vue": "^3.4.29",
-    "@likui628/foo": "workspace:*"
+    "@likui628/foo": "workspace:*",
+    "@likui628/vue-components": "workspace:*"
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",

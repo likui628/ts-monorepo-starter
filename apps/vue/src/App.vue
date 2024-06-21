@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import TheWelcome from './components/TheWelcome.vue'
 import { meaningOfLife } from "@likui628/foo";
+import { ComponentA } from "@likui628/vue-components"
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import { meaningOfLife } from "@likui628/foo";
   <main>
     <TheWelcome />
     <span>{{ meaningOfLife }}</span>
+    <ComponentA msg="hello" />
   </main>
 </template>
 
